@@ -1,7 +1,7 @@
 {
   "name": "cafo-syntax",
   "theme": "syntax",
-  "version": "0.2.0",
+  "version": "0.3.0",
   "description": "A syntax based on the color palette of one of my designs",
   "keywords": [
     "syntax"
