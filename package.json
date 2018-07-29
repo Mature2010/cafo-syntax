@@ -1,0 +1,15 @@
+{
+  "name": "cafo-syntax",
+  "theme": "syntax",
+  "version": "1.0.0",
+  "description": "A syntax based on the color palette of one of my designs",
+  "keywords": [
+    "syntax",
+    "theme"
+  ],
+  "repository": "https://github.com/Mature2010/cafo-syntax",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  }
+}
